@@ -1,0 +1,107 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+/* Wider academic layout */
+@media (min-width: 80em) {
+  #main {
+    max-width: 1400px;
+  }
+
+  .page {
+    width: calc(100% - 260px);
+    padding-inline-end: 0;
+  }
+
+  .archive {
+    width: 100%;
+  }
+
+  .sidebar {
+    width: calc(240px - 1em);
+  }
+}
+
+	.publication-entry {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 1.5rem;
+		margin-bottom: 2rem;
+		align-items: flex-start;
+	}
+	.publication-entry img {
+		width: 160px;
+		max-width: 100%;
+		border-radius: 1rem;
+		object-fit: cover;
+		box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+	}
+	.publication-details {
+		flex: 1;
+		min-width: 240px;
+		font-size: 0.7rem;
+	}
+	.publication-details h3 {
+		margin: 0 0 0.4rem;
+		font-size: 0.9rem;
+		line-height: 1.2;
+	}
+	.publication-details p {
+		margin: 0.25rem 0;
+		font-size: 0.7rem;
+	}
+	.publication-links {
+		margin-top: 0.75rem;
+	}
+	.publication-links a {
+		text-decoration: none;
+		color: inherit;
+		font-weight: 600;
+	}
+	.publication-title-icon {
+		display: inline-block;
+		vertical-align: middle;
+		width: 20px !important;
+		height: 20px !important;
+		max-width: 20px !important;
+		max-height: 20px !important;
+		margin-right: 0.45rem;
+	}
+	.publication-meta {
+		color: #555;
+	}
+	.publication-note {
+		color: #c0392b;
+		font-size: 0.75rem;
+		margin: 0.3rem 0 0;
+	}
+	.publication-meta em {
+		font-style: italic;
+	}
+	.publication-intro {
+		font-size: 0.75rem !important;
+		color: #666;
+		margin-bottom: 1.5rem;
+		line-height: 1.5;
+	}
+
+	.page__content {
+		font-size: 0.8rem;
+		line-height: 1.65;
+	}
+
+/* Keep sidebar fully opaque so images are always clear */
+@media (min-width: 64em) {
+	.sidebar {
+		opacity: 1 !important;
+		-webkit-transition: none !important;
+		transition: none !important;
+	}
+	.sidebar:hover {
+		opacity: 1 !important;
+	}
+}

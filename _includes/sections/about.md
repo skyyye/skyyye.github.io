@@ -1,8 +1,3 @@
----
-title: "About"
-permalink: /about/
----
-
 <style>
 	.page__content {
 		font-size: 0.8rem;
