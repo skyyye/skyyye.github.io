@@ -73,7 +73,7 @@
 <div class="publication-entry">
     <img src="/assets/images/grandpa.png" alt="Publication image">
     <div class="publication-details">
-        <h3><a href="#">“Grandpa, Can You Speak Nicer?”: Envisioned Chatbot Roles and Design Tensions in Intergenerational Communication Conflicts</a></h3>
+        <h3><a href="#https://doi.org/10.1145/3800645.3813010">“Grandpa, Can You Speak Nicer?”: Envisioned Chatbot Roles and Design Tensions in Intergenerational Communication Conflicts</a></h3>
         <p class="publication-meta"><strong>Tianyi Zhang</strong>, Emran Poh, Yueyue Hou, Yi-Chieh Lee, Renwen Zhang, Jiannan Li, Anthony Tang</p>
         <p class="publication-meta"><em>Proceedings of the 2026 ACM Conference on Designing Interactive Systems (DIS ’26)</em></p>
         <p class="publication-links">
@@ -85,7 +85,7 @@
 <div class="publication-entry">
     <img src="/assets/images/GCA.png" alt="Publication image">
     <div class="publication-details">
-        <h3><a href="#"><img class="publication-title-icon" src="/assets/images/award.png" alt="Paper icon">Group Conversational Agents: A Review of Designs that Support and Shape Group Interaction</a></h3>
+        <h3><a href="#https://doi.org/10.1145/3800645.3812934"><img class="publication-title-icon" src="/assets/images/award.png" alt="Paper icon">Group Conversational Agents: A Review of Designs that Support and Shape Group Interaction</a></h3>
         <p class="publication-meta">Shun Yi Yeo*, <strong>Tianyi Zhang*</strong>, Scott Bateman, Gary Hsieh, Young-Ho Kim, Simon Tangi Perrault, Jiannan Li, Anthony Tang</p>
         <p class="publication-meta"><em>Proceedings of the 2026 ACM Conference on Designing Interactive Systems (DIS ’26)</em></p>
         <p class="publication-note"><strong>DIS '26 Best Paper Honorable Mention</strong></p>
@@ -98,7 +98,7 @@
 <div class="publication-entry">
     <img src="/assets/images/dating.png" alt="Publication image">
     <div class="publication-details">
-        <h3><a href="#">Not Too Early, Not All at Once: Design Tensions in AI-Mediated Self-Disclosure in Online Dating</a></h3>
+        <h3><a href="#https://doi.org/10.1145/3800645.381296">Not Too Early, Not All at Once: Design Tensions in AI-Mediated Self-Disclosure in Online Dating</a></h3>
         <p class="publication-meta">Pei-Hua Tsai, <strong>Tianyi Zhang</strong>, Emran Poh, Anthony Tang, Yung-Ju Chang</p>
         <p class="publication-meta"><em>Proceedings of the 2026 ACM Conference on Designing Interactive Systems (DIS ’26)</em></p>
         <p class="publication-links">
