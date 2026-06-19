@@ -98,7 +98,7 @@
 <div class="publication-entry">
     <img src="/assets/images/dating.png" alt="Publication image">
     <div class="publication-details">
-        <h3><a href="https://doi.org/10.1145/3800645.381296">Not Too Early, Not All at Once: Design Tensions in AI-Mediated Self-Disclosure in Online Dating</a></h3>
+        <h3><a href="https://doi.org/10.1145/3800645.3812961">Not Too Early, Not All at Once: Design Tensions in AI-Mediated Self-Disclosure in Online Dating</a></h3>
         <p class="publication-meta">Pei-Hua Tsai, <strong>Tianyi Zhang</strong>, Emran Poh, Anthony Tang, Yung-Ju Chang</p>
         <p class="publication-meta"><em>Proceedings of the 2026 ACM Conference on Designing Interactive Systems (DIS ’26)</em></p>
         <p class="publication-links">
