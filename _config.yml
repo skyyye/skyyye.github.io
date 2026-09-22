@@ -27,6 +27,8 @@ search: false
 atom_feed:
   hide: true
 
+google_site_verification: "FJYTZcvkbAmy-xG_kHIFWl0ftYeuNFXWGbtxiWKv--o"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
