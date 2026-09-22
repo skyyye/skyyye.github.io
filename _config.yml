@@ -60,6 +60,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-feed
 
 author:
   name   : "Tianyi Zhang"
